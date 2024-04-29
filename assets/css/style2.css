@@ -28,10 +28,74 @@ nav a.active {
 .btn{
     border-radius: 3%;
 }
-.container{
-    ;
-: ;
+.login-button {
+    border: #05073c;
+    border-radius: 15px;
+    border-style: solid;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 16px;
+    padding-right: 16px;
+    background-color: #ffffff;
+    color: #05073c;
 }
+
+.phrase {
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    margin-left: 100px;
+    margin-top: 48px;
+}
+
+.adventure {
+    margin-left: 100px;
+    margin-top: 32px;
+}
+
+div.absolute{
+  position: absolute;
+  width: 10px;
+  height: 200px;
+  top: 100px;
+  left: 685px;
+}
+div.relative{
+  position: absolute;
+  width: 10px;
+  height: 150px;
+  top: 530px;
+  left: 685px;
+}
+.container{
+  position: absolute;
+  width: 10px;
+  height: 300px;
+  top: 100px;
+  left: 1030px;
+}
+div.investors{
+  position: absolute;
+  width: auto;
+  height: auto;
+  top: 950px;
+  left: auto;
+}
+div.popular{
+  position: absolute;
+  width: auto;
+  height: auto;
+  top: 1050px;
+  left: auto;
+}
+div.features{
+  position: absolute;
+  width: auto;
+  height: auto;
+  top: 1500px;
+  left: 15px;
+}
+
 
 
 
